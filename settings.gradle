@@ -1,0 +1,2 @@
+rootProject.name = "Spotyfi Clone"
+include ':app'
